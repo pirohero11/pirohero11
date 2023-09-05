@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @pirohero11
+- 👀 I’m interested in app and web development
+- 🌱 I’m currently learning python
